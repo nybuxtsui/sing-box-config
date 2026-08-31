@@ -1,0 +1,57 @@
+{
+    "version": 3,
+    "rules": [{
+        "domain": [
+            "time-ios.apple.com",
+            "time1.cloud.tencent.com",
+            "localhost.ptlogin2.qq.com",
+            "lens.l.google.com",
+            "WORKGROUP"
+        ],
+        "domain_suffix": [
+            "lan",
+            "local",
+            "services.googleapis.cn",
+            "push.apple.com",
+            "n.n.srv.nintendo.net",
+            "stun.playstation.net",
+            "msftncsi.com",
+            "msftconnecttest.com",
+            "mcdn.bilivideo.cn",
+            "bilibili.com",
+            "bilicdn.com",
+            "bilivideo.com",
+            "market.xiaomi.com",
+            "xiaomi.com",
+            "xiaomi.net",
+            "mi.com",
+            "mi-img.com",
+            "miui.com",
+            "huawei.com",
+            "hicloud.com",
+            "dbankcdn.com",
+            "hihonor.com",
+            "vivo.com",
+            "vivo.com.cn",
+            "vmsg.vivo.com.cn",
+            "apple.com",
+            "icloud.com",
+            "aaplimg.com",
+            "cdn-apple.com",
+            "baidu.com",
+            "qq.com",
+            "tencent.com",
+            "alipay.com",
+            "taobao.com",
+            "time.edu.cn",
+            "ntp.org.cn",
+            "pool.ntp.org"
+        ],
+        "domain_regex": [
+            "^(time|ntp)\\d*\\.[^.]+$",
+            "^stun\\..+",
+            "^xbox\\.[^.]+\\.[^.]+\\.microsoft\\.com$",
+            "^[^.]+\\.[^.]+\\.xboxlive\\.com$"
+        ]
+    }]
+}
