@@ -1,0 +1,66 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain": [
+                "services.googleapis.cn",
+                "imgly.net",
+                "thumbsnap.com",
+                "66img.cc",
+                "pti.store.microsoft.com"
+            ],
+            "domain_suffix": [
+                "sagernet.org",
+                "imdb.com",
+                "alltrails.com",
+                "ddos-guard.net",
+                "wd-cloud.net",
+                "wd-gold.net",
+                "flightradar24.com",
+                "dygod.vip",
+                "usatoday.com",
+                "docs.rs",
+                "osmand.net",
+                "board.zash.run.place",
+                "nsaimg.com",
+                "11img.com",
+                "freedom.gov",
+                "mikrotik.com",
+                "daumcdn.net",
+                "kakaocdn.net",
+                "codemasters.com",
+                "goog",
+                "google",
+                "gle",
+                "cbr.com",
+                "lmstudio.ai",
+                "ollama.com",
+                "wd-gold.net",
+                "maptiler.com",
+                "thunderforest.com",
+                "tracestrack.com",
+                "openstreetmap.fr",
+                "mapy.com",
+                "organicmaps.app",
+                "gpx.studio",
+                "geojson.io",
+                "refuges.info",
+                "opentopomap.org",
+                "mapbox.com",
+                "arcgisonline.com",
+                "arcgis.com",
+                "windy.com",
+                "themoviedb.org",
+                "rwth-aachen.de",
+                "piaohua.com",
+                "rijupao.com",
+                "ibkr.com",
+                "xn--9kqz23b19z.com",
+                "xn--4gq62f52gdss.com"
+            ],
+            "domain_keyword": [
+                ".annas-archive."
+            ]
+        }
+    ]
+}
