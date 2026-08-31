@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain": [
+            ],
+            "domain_suffix": [
+                "ext.to",
+                "tradingview.com",
+                "gemini.google.com",
+                "challenges.cloudflare.com",
+                "openstreetmap.org"
+            ],
+            "domain_keyword": [
+            ]
+        }
+    ]
+}
